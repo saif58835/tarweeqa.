@@ -1,13 +1,22 @@
-# Tarweqa
+# Tarweqa 🚀
 
-Flutter application.
+A Flutter mobile application built with Dart.
 
-## About
-This project is built with Flutter and Dart.
+## 📱 About
 
-## Getting Started
+Tarweqa is a Flutter project focused on providing a smooth and simple mobile application experience.
 
-Install dependencies:
+## ✨ Features
 
-```bash
-flutter pub get
+- Modern Flutter UI
+- Fast and responsive performance
+- Cross-platform support (Android & iOS)
+- Firebase integration
+
+## 🛠 Technologies
+
+- Flutter
+- Dart
+- Firebase
+
+## 📂 Project Structure

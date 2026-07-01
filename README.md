@@ -20,3 +20,12 @@ Tarweqa is a Flutter project focused on providing a smooth and simple mobile app
 - Firebase
 
 ## 📂 Project Structure
+
+## 🚀 Getting Started
+
+Install project dependencies:
+
+```bash
+flutter pub get
+
+flutter run
